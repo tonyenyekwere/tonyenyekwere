@@ -61,8 +61,9 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 - EC-Council Certified Ethical Hacker (CEH) 
   
 ## Education
-NIIT Port Harcourt
-Cybersecurity Program
+- Master of Science (M.Sc.) in Cybersecurity, MIVA Open University (In Progress)
+- Bachelor of Science (B.Sc.) in Computer Science, Rivers State University
+- Diploma in Microsoft Networking Technology, NIIT Port Harcourt
 
 ## Contact
 Email: your@email.com
