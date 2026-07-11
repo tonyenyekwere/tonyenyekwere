@@ -29,6 +29,13 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 #### SIEM & Detection
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge) 
 
+#### Vulnerability Assessment
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge)
+
+
+
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
 
