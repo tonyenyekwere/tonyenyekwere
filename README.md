@@ -30,11 +30,17 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge)
 ![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge)
-
-
-
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+#### Penetration Testing
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-800000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+#### Malware Analysis & Digital Forensics
+![Autopsy](https://img.shields.io/badge/Autopsy-2E86C1?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003366?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-8B0000?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)[Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
 
 ### Networking
 - TCP/IP
