@@ -41,8 +41,11 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003366?style=for-the-badge)
 ![YARA](https://img.shields.io/badge/YARA-8B0000?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)[Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
-
-### Networking
+#### Cloud & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+#### Programming & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### Networking
 - TCP/IP
 - DNS
 - HTTP
@@ -50,8 +53,15 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 - SSH
 
 ## Certifications
--ISC2 CC 
-- CompTIA Security+ (In Progress)
+![ISC2](https://img.shields.io/badge/ISC2-468145?style=for-the-badge)
+![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge)
+![EC--Council](https://img.shields.io/badge/EC--Council-003B5C?style=for-the-badge)
+| Certification | Status |
+|--------------|--------|
+| Certified in Cybersecurity (CC) | ✅ Completed |
+| Security+ (SY0-701) | 🔄 In Progress |
+| Certified Ethical Hacker (CEH) | 🎯 Planned |
+  
 ## Education
 NIIT Port Harcourt
 Cybersecurity Program
