@@ -15,10 +15,9 @@ Project	Description	Repository
 OSINT Investigation	Conducted an OSINT investigation on a target organization	Coming soon
 Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 
-## Skills
+## Technical Skills
 ### Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- Linux
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Networking
 - TCP/IP
