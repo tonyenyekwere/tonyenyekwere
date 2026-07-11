@@ -1,14 +1,21 @@
-# Hi, I'm Tomboy Tomboy
 ## About Me
-I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
-I enjoy building practical cybersecurity projects that demonstrate real-world skills in:
+I am a cybersecurity professional, educator, and lifelong learner with a passion for helping individuals and organizations build secure digital environments. I currently serve as a Principal Instructor in Cybersecurity at NIIT Port Harcourt, where I train aspiring cybersecurity professionals through hands-on, industry-aligned projects.
 
-- Penetration Testing
-- Log Analysis
-- Malware Analysis
-- Digital Forensics
-- OSINT
-- Threat Hunting
+I am currently pursuing a Master of Science (M.Sc.) in Cybersecurity at MIVA Open University and continuously expanding my expertise across offensive and defensive security.
+
+My interests include:
+
+- 🔍 Open Source Intelligence (OSINT)
+- 🧠 Threat Intelligence
+- 📊 Security Operations Center (SOC) Analysis
+- 📑 Log Analysis & Threat Detection
+- 🦠 Malware Analysis
+- 🖥️ Digital Forensics
+- 🛡️ Vulnerability Assessment
+- ⚔️ Penetration Testing
+- 🚨 Incident Response
+
+I enjoy designing practical cybersecurity labs, documenting real-world investigations, and building projects that demonstrate technical skills, analytical thinking, and professional reporting. My goal is to contribute to a safer digital ecosystem by combining technical expertise, continuous learning, and cybersecurity education.
 
 ## Projects
 Project	Description	Repository
