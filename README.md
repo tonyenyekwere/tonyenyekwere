@@ -23,6 +23,10 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 #### Network Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge) 
 
+#### Threat Intelligence & OSINT
+![Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge) ![AlienVault OTX](https://img.shields.io/badge/AlienVault%20OTX-7B3FE4?style=for-the-badge)
+
+
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-00A3E0?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
 
 ### Networking
