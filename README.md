@@ -56,11 +56,9 @@ Log Analysis	Analyzed IIS and Windows Event Logs to identify attacks	Coming soon
 ![ISC2](https://img.shields.io/badge/ISC2-468145?style=for-the-badge)
 ![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge)
 ![EC--Council](https://img.shields.io/badge/EC--Council-003B5C?style=for-the-badge)
-| Certification | Status |
-|--------------|--------|
-| Certified in Cybersecurity (CC) | ✅ Completed |
-| Security+ (SY0-701) | 🔄 In Progress |
-| Certified Ethical Hacker (CEH) | 🎯 Planned |
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA Security+ (SY0-701) 
+- EC-Council Certified Ethical Hacker (CEH) 
   
 ## Education
 NIIT Port Harcourt
